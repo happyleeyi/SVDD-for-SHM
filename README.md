@@ -11,8 +11,8 @@ We use an autoencoder to map the acceleration data to hyperspace and the SVDD me
 
 3-story shake table test data with an undamaged case and several damaged cases
 
-![image](https://github.com/happyleeyi/SVDD-for-SHM/assets/173021832/9df5c74f-6e87-40d5-9bae-4f486b3f4c2f)
-![image](https://github.com/happyleeyi/SVDD-for-SHM/assets/173021832/66d55aa9-bac9-42b0-a5bd-5b31072706a7)
+![image](https://github.com/happyleeyi/SVDD-for-SHM/assets/173021832/b328aac8-2b3d-4063-9154-6c3e3cb029e1)
+
 
 (open-source by Engineering Institute at Los Alamos National Laboratory)
 
@@ -42,6 +42,7 @@ We use an autoencoder to map the acceleration data to hyperspace and the SVDD me
 ## Result
 
 ![image](https://github.com/happyleeyi/SVDD-for-SHM/assets/173021832/cbc72996-60e9-44bc-8673-531957db65d8)
+![image](https://github.com/happyleeyi/SVDD-for-SHM/assets/173021832/73e82b5c-6e0a-48e4-89d5-6ba4b338b568)
 
 
 
