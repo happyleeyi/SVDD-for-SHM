@@ -1,5 +1,15 @@
 # SVDD(machine learning) for SHM
 
+## Introduction
+The research to suggest a method to find whether and where the defect happens in the building on real-time.
+
+We use an autoencoder to map the acceleration data to hyperspace and the SVDD method(machine learning) to find the location of the defect in this section.
+
+## Dataset
+
+![Multi Deep svdd model pic - 복사본](https://github.com/happyleeyi/SVDD-for-SHM/assets/173021832/02899541-3b92-4d32-ac29-957706521bee)
+
+
 ## Method
 
 1. prepare dataset (we use 3F shake table test dataset, 8 accelerometers per floor, a total of 24 accelerometers)
