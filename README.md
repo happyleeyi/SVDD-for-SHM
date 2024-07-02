@@ -43,7 +43,8 @@ We use an autoencoder to map the acceleration data to hyperspace and the SVDD me
 
 ![image](https://github.com/happyleeyi/SVDD-for-SHM/assets/173021832/cbc72996-60e9-44bc-8673-531957db65d8)
 ![image](https://github.com/happyleeyi/SVDD-for-SHM/assets/173021832/73e82b5c-6e0a-48e4-89d5-6ba4b338b568)
-![image](https://github.com/happyleeyi/SVDD-for-SHM/assets/173021832/06d8b1bd-aa7b-40fa-9c17-99db25033618)
+![image](https://github.com/happyleeyi/SVDD-for-SHM/assets/173021832/258888e5-440a-4e28-8124-fbb01f722b06)
+
 
 
 
